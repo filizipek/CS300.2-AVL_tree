@@ -1,8 +1,8 @@
-# Word Frequency Analyzer using AVL Trees
+# Search Engine Project
 **Author:** Filiz İpek Oktay - 30780
 
 ### Overview
-This C++ program, developed for CS300 Homework 2, serves as a word frequency analyzer using AVL Trees. The application reads input from multiple files, builds an AVL Tree to store word frequencies across documents, and allows users to query the frequency of specific words. Additionally, users can remove words from the AVL Tree.
+This C++ program, developed for CS300 Homework 2, serves as a search engine using AVL Trees. The application reads input from multiple files, builds an AVL Tree to store word frequencies across documents, and allows users to query the frequency of specific words. Additionally, users can remove words from the AVL Tree.
 
 ### Program Structure
 - **Main Program:**
@@ -50,4 +50,4 @@ This C++ program, developed for CS300 Homework 2, serves as a word frequency ana
 - For any questions or suggestions, please contact the author, Filiz İpek Oktay.
 
 ### Happy Word Analyzing!
-Explore the power of AVL Trees in word frequency analysis with this C++ application. Analyze documents, query word frequencies, and remove unwanted words efficiently!
+Explore the power of AVL Trees in search engine with this C++ application. Analyze documents, query word frequencies, and remove unwanted words efficiently!
